@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608086922937",
+    "project_id": "easypeasy-78f27",
+    "storage_bucket": "easypeasy-78f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608086922937:android:184dc78c7566ec752e6d68",
+        "android_client_info": {
+          "package_name": "com.example.easypeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfW9Ukz9FZDALIIljpZ9-x0vwsBx5Gpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
